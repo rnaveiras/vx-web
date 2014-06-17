@@ -14,7 +14,7 @@ gem 'carrierwave'
 gem 'sshkey'
 
 gem 'vx-message',           '0.5.0'
-gem 'vx-builder',           :github => 'pacoguzman/vx-builder',           :branch => 'bebanjo'
+gem 'vx-builder',           :github => 'pacoguzman/vx-builder',           :ref => '6a9c5556f4d13f5e04c84927f202ac2068d53449'
 gem 'vx-common',            :github => 'pacoguzman/vx-common',            :branch => 'bebanjo'
 gem 'vx-service_connector', :github => 'pacoguzman/vx-service_connector', :branch => 'bebanjo'
 gem 'vx-consumer',          '0.1.1'
